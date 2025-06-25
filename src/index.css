@@ -264,7 +264,7 @@ body {
         @apply opacity-0 md:px-0 px-5 space-y-5 absolute md:bottom-5 bottom-52 left-1/2 -translate-x-1/2;
 
         h3 {
-          @apply md:text-5xl text-2xl text-center font-serif md:w-full w-80 text-white;
+          @apply md:text-4xl text-2xl text-center font-serif md:w-full w-80 text-white;
         }
 
         p {
