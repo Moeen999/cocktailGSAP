@@ -120,17 +120,17 @@ const socials = [
   {
     name: "Instagram",
     icon: "/images/insta.png",
-    url: "#",
+    url: "https://www.instagram.com/codingwithmoeen999?igsh=MWJ1OHU4ZzM4cWRpNA==",
   },
   {
     name: "X (Twitter)",
     icon: "/images/x.png",
-    url: "#",
+    url: "https://x.com/MoeenNazak?t=S95MSU_4Omqr4kNCypAUTQ&s=09",
   },
   {
     name: "Facebook",
     icon: "/images/fb.png",
-    url: "#",
+    url: "https://www.facebook.com/share/1E2BgMrLZd/",
   },
 ];
 
