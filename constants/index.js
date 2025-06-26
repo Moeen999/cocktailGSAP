@@ -137,7 +137,7 @@ const socials = [
 const allCocktails = [
   {
     id: 1,
-    name: "Classic Mojito",
+    name: "Classic Coolito",
     image: "/images/drink1.png",
     title: "Simple Ingredients, Bold Flavor",
     description:
@@ -145,7 +145,7 @@ const allCocktails = [
   },
   {
     id: 2,
-    name: "Raspberry Mojito",
+    name: "Raspberry Coolito",
     image: "/images/drink2.png",
     title: "A Zesty Classic That Never Fails",
     description:
@@ -161,7 +161,7 @@ const allCocktails = [
   },
   {
     id: 4,
-    name: "Curacao Mojito",
+    name: "Curacao Coolito",
     image: "/images/drink4.png",
     title: "Crafted With Care, Poured With Love",
     description:

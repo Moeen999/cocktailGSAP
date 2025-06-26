@@ -71,7 +71,7 @@ const isMobile = useMediaQuery({ maxWidth: 767 });
  return (
 	<>
 	 <section id="hero" className="noisy">
-		<h1 className="title">MOJITO</h1>
+		<h1 className="title">Coolito</h1>
 		
 		<img
 		 src="/images/hero-left-leaf.png"
@@ -89,9 +89,9 @@ const isMobile = useMediaQuery({ maxWidth: 767 });
 		 
 		 <div className="content">
 			<div className="space-y-5 hidden md:block">
-			 <p>Cool. Crisp. Classic.</p>
+			 <p>Minty. Smooth. Iconic.</p>
 			 <p className="subtitle">
-				Sip the Spirit <br /> of Summer
+				Taste the Essence <br />  of Sunshine
 			 </p>
 			</div>
 			
